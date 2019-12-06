@@ -2,6 +2,7 @@
   "name": "omen666/epayments",
   "description": "Functionality for epayments Api",
   "license": "proprietary",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "Aleksei Ivanov",
