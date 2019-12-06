@@ -1,0 +1,20 @@
+{
+  "name": "omen666/epayments",
+  "description": "Functionality for epayments Api",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Aleksei Ivanov",
+      "email": "omen.ekb@yandex.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "guzzlehttp/guzzle": "~6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "src\\": "omen666\\epayments\\"
+    }
+  }
+}
